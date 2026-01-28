@@ -1,0 +1,7 @@
+Problem Statement 4: Agentic AI system for Explainable Traffic Congestion Analysis 
+The Challenge
+Urban travel is often frustrating, as commuters and planners face multiple challenges:
+Information overload – traffic data comes from multiple sources such as GPS, sensors, cameras, and social media alerts, making it hard to get a clear picture.
+Lack of transparency – standard traffic apps provide routes but rarely explain why congestion occurs or why a route is suggested.
+Dynamic conditions – traffic congestion can change rapidly due to accidents, construction, weather, or special events, making real-time decision-making difficult.
+Inefficient planning – without clear explanations of traffic patterns, commuters may choose suboptimal routes, leading to delays, higher fuel consumption, and increased stress.
